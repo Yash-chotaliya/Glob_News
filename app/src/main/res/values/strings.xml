@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Globnews</string>
+    <string name="newsimg">newsimg</string>
+    <string name="previous">previous</string>
+    <string name="next">next</string>
+    <string name="business">business</string>
+    <string name="home">home</string>
+    <string name="entertainment">entertainment</string>
+    <string name="sports">sports</string>
+    <string name="globnews">GlobNews</string>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
